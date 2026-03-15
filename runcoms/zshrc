@@ -22,3 +22,7 @@ export NVM_DIR="$HOME/.nvm"
 export EDITOR='code-insiders -w'
 
 eval "$(starship init zsh)"
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/sguo/.lmstudio/bin"
+# End of LM Studio CLI section
+
